@@ -1,0 +1,20 @@
+{
+  "name": "killer-game",
+  "version": "1.0.0",
+  "description": "This is just a poc game to learn a bit of node and firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duperez/killer-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duperez/killer-game/issues"
+  },
+  "homepage": "https://github.com/duperez/killer-game#readme"
+}
